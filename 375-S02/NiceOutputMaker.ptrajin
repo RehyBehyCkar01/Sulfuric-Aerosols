@@ -1,0 +1,2 @@
+trajin production.mdcrd 1 10000 10
+trajout output.pdb pdb append
