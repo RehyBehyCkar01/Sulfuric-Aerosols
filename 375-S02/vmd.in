@@ -1,3 +1,0 @@
-parm water_solvated.prmtop
-trajin production.mdcrd
-trajout production.dcd dcd
